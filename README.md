@@ -10,7 +10,7 @@
 <table align="center">
 <tr border="none">
 <td width="60%" align="left">
-- 👋 Hi, I’m @Nikii20 <br/>
+- 👋 Hi, I’m @nikiniwandana <br/>
 - 🎓 I’m currently undergraduated in BSc (Hons) in Information Technology. <br/>
 - 👀 I’m interested in Software Engineer <br/>
 - 🌱 I’m currently learning University of Moratuwa <br/>
@@ -47,7 +47,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikii20&theme=tokyonight&hide_border=false"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikiniwandana&theme=tokyonight&hide_border=false"/></p>
     </td>
 </tr>
 </table>
@@ -57,9 +57,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikii20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> <br/></td>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nikiniwandana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/> <br/></td>
 <td width="50%" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikii20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiniwandana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
   </td>
 </tr>
 </table>
@@ -73,21 +73,21 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/yohan-indrwansha-16921817a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yohan_awishka1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Nikii20shka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/nikiniwandanashka/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/yohan.awishka.3/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
 <a href = "https://www.youtube.com/channel/UCJySLVr5-5fPVvaMg9h3BEg" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
-<a href = "https://www.behance.net/Nikii20shka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
-<a href = "https://dribbble.com/Nikii20shka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
-<a href = "https://github.com/Nikii20" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
+<a href = "https://www.behance.net/nikiniwandanashka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
+<a href = "https://dribbble.com/nikiniwandanashka" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
+<a href = "https://github.com/nikiniwandana" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
 </p>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Nikii20"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/nikiniwandana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=Nikii20"> </a>
-<a href="https://github.com/Nikii20?tab=followers"><img src="https://img.shields.io/github/followers/Nikii20?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=nikiniwandana"> </a>
+<a href="https://github.com/nikiniwandana?tab=followers"><img src="https://img.shields.io/github/followers/nikiniwandana?label=Followers&style=social" alt="GitHub Badge"></a>
 <!---
-Nikii20/Nikii20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nikiniwandana/nikiniwandana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
